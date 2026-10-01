@@ -1,0 +1,19 @@
+# Editor and IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PowerShell
+*.clixml
+
+# Local configuration and secrets
+.env
+*.env
+*.local
+*.secret
+*.secrets
